@@ -1,0 +1,4 @@
+Include:
+C:\Users\andri\OneDrive\esk\Honlap\fruzsinandriseskuvo\app\public\wp-content
+C:\Users\andri\OneDrive\esk\Honlap\fruzsinandriseskuvo\app\public\wp-content\uploads
+C:\Users\andri\OneDrive\esk\Honlap\fruzsinandriseskuvo\app\public\wp-content\themes\astra
